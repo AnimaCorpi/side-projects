@@ -1,0 +1,26 @@
+table, th, td {
+  border: 2px;
+}
+body {
+background-image: url('https://sites.bu.edu/wtbu/files/2019/01/half.alive_press20182019.png');
+}
+a:link {
+color: red;
+background-color: transparent;
+text-decoration: none;
+}
+a:visited {
+color: rgb(17, 2, 71);
+background-color: transparent;
+text-decoration: none;
+}
+a:hover {
+color: purple;
+background-color: transparent;
+text-decoration: underline;
+}
+a:active {
+color: rgb(5, 65, 18);
+background-color: transparent;
+text-decoration: underline;
+}
